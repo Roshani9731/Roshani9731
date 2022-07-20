@@ -2,7 +2,9 @@
 <h3 align="left">Open Source Contributor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshani9731&label=Profile%20views&color=0e75b6&style=flat" alt="roshani9731" /> </p>
-
+<p align="center">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="It's Roshh">
+</p>
 <h2 align="left"> Techniacal Skill Set</h2>
 
 
