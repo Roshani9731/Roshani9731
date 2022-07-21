@@ -51,14 +51,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/roshani navdiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshani navdiya" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/nroshh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nroshh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/roshani-navdiya-0931aa215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshani navdiya" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCM6ZLSt_69bogM80YTxizTw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nroshh" height="30" width="40" /></a>
 </p>
 
 
 <h3 align="left">GitHub Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshani9731&show_icons=true&locale=en&layout=compact&theme=radical" alt="roshani9731" /></p>
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roshani9731&theme=radical" alt="roshani9731" /></p>
 <br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshani9731&show_icons=true&locale=en&layout=compact&theme=radical" alt="roshani9731" /></p>
+  <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=roshani9731&show_icons=true&locale=en&theme=radical" alt="roshani9731" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshani9731&theme=radical" alt="roshani9731" /></p>
