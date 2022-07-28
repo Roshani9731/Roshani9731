@@ -57,7 +57,7 @@
 
 
 <h3 align="left">GitHub Stats:</h3>
-<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roshani9731&theme=radical" alt="roshani9731" /></p>
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=roshani9731&theme=react-dark" alt="roshani9731" /></p>
 <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshani9731&show_icons=true&locale=en&layout=compact&theme=radical" alt="roshani9731" /></p>
   <br>
